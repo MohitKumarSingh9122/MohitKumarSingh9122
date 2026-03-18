@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkumarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="mohitkumarsingh" /> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 📫 How to reach me **mohitkumarsingh912280@gmail.com**
 
